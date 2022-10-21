@@ -172,13 +172,13 @@ I think it gives me a better visualization and shows the spread a little better.
 1) Add and commit this document (5 pts)
 
 ```
-#Commands here
+Document was committed
 ```
 
 2) Push your changes to github (10 pts)
 
 ```
-#Commands here
+Document was pushed to Github
 ```
 
 
